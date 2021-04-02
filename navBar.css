@@ -1,0 +1,52 @@
+.name{
+    text-align: right;
+}
+.navbar{
+    
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 8px;
+    right: 16px;
+      
+}
+
+.name{
+    color: white; font-size: 12px;
+    text-align: right;
+}
+
+.navbar-nav{
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 8px;
+    right: 16px;
+    width: 300px;
+    border: 2px solid black;
+    background-color: white;
+
+}
+
+#projectsTitle{
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(red, white, blue);
+    
+}
+
+.card-header{
+    background-color: crimson;
+}
+
+.card-body{
+background-color: rgb(143, 215, 240)
+}
+
+.card-title{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
